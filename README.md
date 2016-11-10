@@ -4,7 +4,7 @@ This package is designed for the false discovery rate (FDR) controlling procedur
 
 This package is coded in C++, and can be called from Matlab by MEX. Example data are provided, and please see README.pdf for details.
 
-Please cite the article [1] (available at https://deepblue.lib.umich.edu/handle/2027.42/113759) for this package. 
+Please cite the article [1] for this package, which is available at https://deepblue.lib.umich.edu/handle/2027.42/113759
 
 [1] Shu, H., Nan, B., and Koeppe, R. (2015). "Multiple Testing for Neuroimaging via Hidden Markov Random Field". Biometrics, 71, 741-750.
 
